@@ -1,0 +1,12 @@
+Team Name:Rattata
+Fermin| Jersey number: 29| Grade: 2|  Position: GoalKeeper
+Karlee| Jersey number: 35| Grade: 69|  Position: Attacker
+Ed| Jersey number: 95| Grade: 42|  Position: Attacker
+Albertha| Jersey number: 21| Grade: 86|  Position: Attacker
+Ford| Jersey number: 52| Grade: 13|  Position: Defense
+Marcella| Jersey number: 83| Grade: 2|  Position: Defense
+Alana| Jersey number: 17| Grade: 54|  Position: Defense
+Palma| Jersey number: 56| Grade: 5|  Position: Defense
+Breanne| Jersey number: 12| Grade: 87|  Position: MiddleField
+Xzavier| Jersey number: 16| Grade: 89|  Position: MiddleField
+Felicia| Jersey number: 5| Grade: 22|  Position: MiddleField
